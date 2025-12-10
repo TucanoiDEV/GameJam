@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: b463d35f52e54f4438f63b2f5ddce69e
+guid: c0a527b2fb90adf4b9e3f893f6168e48
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6966246962068231045
-    second: jump-Photoroom_0
+      213: 8856945092977252614
+    second: TurtleIdleFull_0
   - first:
-      213: -1505375314271372454
-    second: jump-Photoroom_1
+      213: -2215054173908019290
+    second: TurtleIdleFull_1
   - first:
-      213: -8091279624904628284
-    second: jump-Photoroom_2
-  - first:
-      213: -7501776534597576348
-    second: jump-Photoroom_3
+      213: -3430281704967373307
+    second: TurtleIdleFull_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: jump-Photoroom_0
+      name: TurtleIdleFull_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 445
-        width: 201
-        height: 271
+        x: 30
+        y: 502
+        width: 202
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7c6748fb4be25f90800000000000000
-      internalID: -6966246962068231045
+      spriteID: 6095c0ec2a03aea70800000000000000
+      internalID: 8856945092977252614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jump-Photoroom_1
+      name: TurtleIdleFull_1
       rect:
         serializedVersion: 2
-        x: 268
-        y: 425
-        width: 209
-        height: 310
+        x: 405
+        y: 502
+        width: 200
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a5b7633a025db1be0800000000000000
-      internalID: -1505375314271372454
+      spriteID: 6a757f5f6fb8241e0800000000000000
+      internalID: -2215054173908019290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jump-Photoroom_2
+      name: TurtleIdleFull_2
       rect:
         serializedVersion: 2
-        x: 520
-        y: 459
-        width: 213
-        height: 263
+        x: 784
+        y: 502
+        width: 207
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,30 +165,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c72433fc0006bf80800000000000000
-      internalID: -8091279624904628284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jump-Photoroom_3
-      rect:
-        serializedVersion: 2
-        x: 759
-        y: 424
-        width: 262
-        height: 286
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46953f6ecf554e790800000000000000
-      internalID: -7501776534597576348
+      spriteID: 50ef5e7b6f03560d0800000000000000
+      internalID: -3430281704967373307
       vertices: []
       indices: 
       edges: []
@@ -210,10 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      jump-Photoroom_0: -6966246962068231045
-      jump-Photoroom_1: -1505375314271372454
-      jump-Photoroom_2: -8091279624904628284
-      jump-Photoroom_3: -7501776534597576348
+      TurtleIdleFull_0: 8856945092977252614
+      TurtleIdleFull_1: -2215054173908019290
+      TurtleIdleFull_2: -3430281704967373307
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
